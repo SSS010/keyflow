@@ -1,4 +1,4 @@
-<img width="1041" height="663" alt="image" src="https://github.com/user-attachments/assets/78ccb8d0-7741-442e-9851-0ec3ce5691f8" /># KeyFlow
+# KeyFlow
 
 KeyFlow is a high-performance typing tutor designed specifically for software engineers. It focuses on muscle memory for programming syntax, special characters, and essential IDE shortcuts. Unlike standard typing tools, KeyFlow pulls real-world code snippets dynamically via the GitHub API to ensure users practice with authentic, modern production code.
 
